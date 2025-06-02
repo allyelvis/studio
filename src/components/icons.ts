@@ -1,9 +1,9 @@
-import {ArrowRight, Check, ChevronsUpDown, Circle, Copy, Edit, ExternalLink, File, HelpCircle, Home, Loader2, Mail, MessageSquare, Moon, Plus, PlusCircle, Search, Server, Settings, Share2, Shield, Sun, Trash, User, X, Workflow} from 'lucide-react';
+import {ArrowRight, Check, ChevronsUpDown, Circle, Copy, Edit, ExternalLink, File, Filter, HelpCircle, Home, Loader2, Mail, MessageSquare, Moon, Plus, PlusCircle, Search, Server, Settings, Share2, Shield, Sparkles, Sun, Trash, User, X, Workflow} from 'lucide-react';
 
 const Icons = {
   arrowRight: ArrowRight,
   check: Check,
-  chevronDown: ChevronsUpDown,
+  chevronDown: ChevronsUpDown, // Can be used for sort
   circle: Circle,
   workflow: Workflow,
   close: X,
@@ -12,6 +12,7 @@ const Icons = {
   edit: Edit,
   externalLink: ExternalLink,
   file: File,
+  filter: Filter,
   help: HelpCircle,
   home: Home,
   light: Sun,
@@ -25,6 +26,7 @@ const Icons = {
   settings: Settings,
   share: Share2,
   shield: Shield,
+  sparkles: Sparkles, // For AI features
   spinner: Loader2,
   trash: Trash,
   user: User,
