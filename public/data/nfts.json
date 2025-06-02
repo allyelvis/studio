@@ -1,116 +1,34 @@
 [
   {
     "id": "1",
-    "name": "CryptoPunk #7804",
-    "description": "A unique pixel art character from the CryptoPunks collection. It features an alien type with attributes like a pipe, small shades, and a forward cap.",
-    "imageUrl": "https://placehold.co/400x400.png",
-    "owner": "0x123Abc...789Def",
+    "name": "AENZBI Hub",
+    "description": "The bustling heart of a futuristic city, where towering skyscrapers and advanced technology create a vibrant, neon-lit spectacle.",
+    "aiGeneratedDescription": null,
+    "imageUrl": "https://placehold.co/600x500.png",
+    "owner": "NeoSyndicate Holdings",
     "attributes": [
-      { "trait_type": "Type", "value": "Alien" },
-      { "trait_type": "Accessory", "value": "Pipe" },
-      { "trait_type": "Accessory", "value": "Small Shades" },
-      { "trait_type": "Headwear", "value": "Cap Forward" }
+      {
+        "trait_type": "Environment",
+        "value": "Urban Metropolis"
+      },
+      {
+        "trait_type": "Time of Day",
+        "value": "Night"
+      },
+      {
+        "trait_type": "Primary Color",
+        "value": "Cyber Neon Blue"
+      },
+      {
+        "trait_type": "Tech Level",
+        "value": "Hyper-Advanced"
+      }
     ],
     "metadata": {
-      "collection": "CryptoPunks",
-      "rarity_score": 95.5,
-      "type": "Alien",
-      "accessories": ["Pipe", "Small Shades", "Cap Forward"],
-      "ai_hint": "pixel art alien"
-    }
-  },
-  {
-    "id": "2",
-    "name": "Bored Ape #8817",
-    "imageUrl": "https://placehold.co/400x400.png",
-    "owner": "0x456Def...123Ghi",
-    "attributes": [
-      { "trait_type": "Background", "value": "Orange" },
-      { "trait_type": "Fur", "value": "Solid Gold" },
-      { "trait_type": "Eyes", "value": "Sleepy" },
-      { "trait_type": "Mouth", "value": "Bored Unshaven" },
-      { "trait_type": "Hat", "value": "Spinner Hat" }
-    ],
-    "metadata": {
-      "collection": "Bored Ape Yacht Club",
-      "yacht_access": true,
-      "fur_color": "Solid Gold",
-      "eye_type": "Sleepy",
-      "ai_hint": "ape avatar gold"
-    }
-  },
-  {
-    "id": "3",
-    "name": "Cosmic Bloom #42",
-    "description": "A vibrant digital flower seemingly from another dimension, part of the 'Galaxy Blooms' collection by artist GalaxyGardener.",
-    "imageUrl": "https://placehold.co/400x400.png",
-    "owner": "0x789Ghi...456Jkl",
-    "attributes": [
-      { "trait_type": "Galaxy", "value": "Andromeda" },
-      { "trait_type": "Petal Color", "value": "Nebula Purple" },
-      { "trait_type": "Stem", "value": "Crystal" },
-      { "trait_type": "Aura", "value": "Pulsating" }
-    ],
-    "metadata": {
-      "artist": "GalaxyGardener",
-      "generation_date": "2023-10-26",
-      "series": "Galaxy Blooms",
-      "primary_color": "Nebula Purple",
-      "ai_hint": "abstract flower cosmic"
-    }
-  },
-  {
-    "id": "4",
-    "name": "RoboCat #101",
-    "imageUrl": "https://placehold.co/400x400.png",
-    "owner": "0xAbcJkl...789Mno",
-    "attributes": [
-      { "trait_type": "Chassis", "value": "Titanium" },
-      { "trait_type": "Eye Color", "value": "Laser Red" },
-      { "trait_type": "Accessory", "value": "Jetpack" },
-      { "trait_type": "Special Ability", "value": "Stealth Mode" }
-    ],
-    "metadata": {
-      "series": "MechaPets",
-      "power_level": 88,
-      "material": "Titanium",
-      "features": ["Jetpack", "Laser Eyes"],
-      "ai_hint": "robot cat futuristic"
-    }
-  },
-  {
-    "id": "5",
-    "name": "Pixel Knight #256",
-    "description": "A brave knight rendered in classic pixel art style, ready for adventure.",
-    "imageUrl": "https://placehold.co/400x400.png",
-    "owner": "0xDefMno...123Pqr",
-    "attributes": [
-      { "trait_type": "Armor", "value": "Steel Plate" },
-      { "trait_type": "Weapon", "value": "Longsword" },
-      { "trait_type": "Shield", "value": "Round Shield" }
-    ],
-    "metadata": {
-      "game_origin": "Pixel Realms",
-      "class": "Knight",
-      "equipment": ["Steel Plate Armor", "Longsword", "Round Shield"],
-      "ai_hint": "pixel knight medieval"
-    }
-  },
-  {
-    "id": "6",
-    "name": "Neon Dreamscape #7",
-    "imageUrl": "https://placehold.co/400x400.png",
-    "owner": "0xGhiPqr...456Stu",
-    "attributes": [
-      { "trait_type": "Primary Colors", "value": "Pink, Blue" },
-      { "trait_type": "Style", "value": "Cyberpunk" },
-      { "trait_type": "Element", "value": "City Skyline" }
-    ],
-    "metadata": {
-      "theme": "Cyberpunk City",
-      "dominant_colors": ["Hot Pink", "Electric Blue"],
-      "mood": "Energetic",
-      "ai_hint": "cyberpunk cityscape neon"
+      "ai_hint": "cyberpunk cityscape",
+      "architecture_style": "Neo-Futuristic",
+      "key_elements": ["Floating Drones", "Smart Energy Billboards", "Elevated Skyways", "AENZBI Tower"],
+      "mood": "Vibrant & Dynamic"
     }
   }
 ]
